@@ -7,7 +7,7 @@ Carla:
     Opinion:
         - I feel like this simulator could only be used by students if Universities could provide access to higher end
         workstations. However, if this can be provided I think this is the stronger of the two programs with better
-        resources online. 
+        documentation, more accurate scenes, and more sensors to use.  
            
     Pros: 
         - More realistic environments can be created with less knowledge of Unreal Engine by running provided scripts to
