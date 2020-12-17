@@ -29,7 +29,7 @@ Carla:
     Teaching Tools: 
         - Pictures of sensor readings
         
-AirSim
+AirSim:
 
     Opinion:
         - I think this simulator is much more suited for student work. The simple "blocks" enviroment that is provided is lightweight
@@ -49,6 +49,6 @@ AirSim
         - Lidar is default just gray scale but a point cloud can be retrieved in an image
     
     Teaching Tools:
-        - Picures of sensor readinga
+        - Picures of sensor readings
         - Recording the drone's camera and sensor views. Could be used for assignments and easily uploaded to canvas
         - Collision counter for drone. This can be used to grade scripts made by students
